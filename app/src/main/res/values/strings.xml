@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Space traveler</string>
+    <string name="unique_offers_title">Unique offers</string>
+    <string name="description">description</string>
+    <string name="new_button">New</string>
+    <string name="send_application_button">Send an application</string>
+    <string name="company_letter">company letter</string>
+</resources>
